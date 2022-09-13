@@ -1,6 +1,6 @@
 # dice
 
-Asimple dice game. Rules are given below:
+A simple dice game. Rules are given below:
 
 ![Image description](rules.png)
 
